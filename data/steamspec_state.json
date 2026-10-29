@@ -595,7 +595,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149050/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149050/0557ac0e30da670f0c1f13e400b9e065d91597c3/header.jpg?t=1793225577",
       "summary": "Complete PC system requirements and verified Amazon hardware upgrades (GPU, CPU, DDR5 RAM, NVMe SSD, and Controller) to run Slime Jump at locked 60–144+ FPS.",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -606,8 +606,8 @@
       },
       "buy_if": "Your current PC experiences frame drops, VRAM stuttering, or slow loading times in Slime Jump and you want a drop-in hardware upgrade.",
       "skip_if": "You already run a 16GB+ VRAM RTX 4080/4090 desktop with 32GB DDR5 RAM and a Gen4 NVMe SSD.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0022",
@@ -619,12 +619,12 @@
       "cat_slug": "graphics-cards-gpus",
       "sub_slug": "1440p-high-fps-gpus",
       "subcategory": "1440p High-FPS GPUs (RTX 4070 Super / RX 7800 XT)",
-      "ram_gb": 32,
+      "ram_gb": 16,
       "storage_gb": 100,
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245690/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245690/1aa26ca20723de83e131b06d9ccdfc3333a71f56/header.jpg?t=1793224357",
       "summary": "Complete PC system requirements and verified Amazon hardware upgrades (GPU, CPU, DDR5 RAM, NVMe SSD, and Controller) to run BRO, DON'T DROP IT! at locked 60–144+ FPS.",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -635,8 +635,8 @@
       },
       "buy_if": "Your current PC experiences frame drops, VRAM stuttering, or slow loading times in BRO, DON'T DROP IT! and you want a drop-in hardware upgrade.",
       "skip_if": "You already run a 16GB+ VRAM RTX 4080/4090 desktop with 32GB DDR5 RAM and a Gen4 NVMe SSD.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0023",
@@ -648,12 +648,12 @@
       "cat_slug": "graphics-cards-gpus",
       "sub_slug": "1440p-high-fps-gpus",
       "subcategory": "1440p High-FPS GPUs (RTX 4070 Super / RX 7800 XT)",
-      "ram_gb": 32,
-      "storage_gb": 100,
+      "ram_gb": 16,
+      "storage_gb": 30,
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319990/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319990/161501b44b2785b96270ceac041eec18026ef68c/header.jpg?t=1793223481",
       "summary": "Complete PC system requirements and verified Amazon hardware upgrades (GPU, CPU, DDR5 RAM, NVMe SSD, and Controller) to run Stellar Swing at locked 60–144+ FPS.",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -664,8 +664,8 @@
       },
       "buy_if": "Your current PC experiences frame drops, VRAM stuttering, or slow loading times in Stellar Swing and you want a drop-in hardware upgrade.",
       "skip_if": "You already run a 16GB+ VRAM RTX 4080/4090 desktop with 32GB DDR5 RAM and a Gen4 NVMe SSD.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0024",
@@ -693,8 +693,8 @@
       },
       "buy_if": "Your current PC experiences frame drops, VRAM stuttering, or slow loading times in NyanGo and you want a drop-in hardware upgrade.",
       "skip_if": "You already run a 16GB+ VRAM RTX 4080/4090 desktop with 32GB DDR5 RAM and a Gen4 NVMe SSD.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0025",
@@ -722,8 +722,8 @@
       },
       "buy_if": "Your current PC experiences frame drops, VRAM stuttering, or slow loading times in Fancy's Monster Girl Beach Jigsaw Puzzle and you want a drop-in hardware upgrade.",
       "skip_if": "You already run a 16GB+ VRAM RTX 4080/4090 desktop with 32GB DDR5 RAM and a Gen4 NVMe SSD.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0026",
@@ -751,8 +751,8 @@
       },
       "buy_if": "You want to play Cyberpunk 2077: Phantom Liberty (Action RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0027",
@@ -780,8 +780,8 @@
       },
       "buy_if": "You want to play Elden Ring: Shadow of the Erdtree (Souls-like Action RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0028",
@@ -809,8 +809,8 @@
       },
       "buy_if": "You want to play Black Myth: Wukong (Action RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0029",
@@ -838,8 +838,8 @@
       },
       "buy_if": "You want to play Baldur's Gate 3 (CRPG Strategy) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0030",
@@ -867,8 +867,8 @@
       },
       "buy_if": "You want to play Helldivers 2 (Co-Op Tactical Shooter) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0031",
@@ -896,8 +896,8 @@
       },
       "buy_if": "You want to play Monster Hunter Wilds (Action Co-Op RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0032",
@@ -925,8 +925,8 @@
       },
       "buy_if": "You want to play Microsoft Flight Simulator 2024 (Aviation Simulation) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0033",
@@ -954,8 +954,8 @@
       },
       "buy_if": "You want to play Call of Duty: Warzone & Black Ops 6 (Competitive FPS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0034",
@@ -983,8 +983,8 @@
       },
       "buy_if": "You want to play Starfield: Shattered Space (Sci-Fi Open World RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0035",
@@ -1012,8 +1012,8 @@
       },
       "buy_if": "You want to play Counter-Strike 2 (CS2) (Tactical Esports FPS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0036",
@@ -1041,8 +1041,8 @@
       },
       "buy_if": "You want to play Forza Horizon 5 (Open World Racing) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0037",
@@ -1070,8 +1070,8 @@
       },
       "buy_if": "You want to play Red Dead Redemption 2 (Open World Action) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0038",
@@ -1099,8 +1099,8 @@
       },
       "buy_if": "You want to play Ghost of Tsushima DIRECTOR'S CUT (Open World Action) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0039",
@@ -1128,8 +1128,8 @@
       },
       "buy_if": "You want to play Hogwarts Legacy (Open World Fantasy RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0040",
@@ -1157,8 +1157,8 @@
       },
       "buy_if": "You want to play Diablo IV: Vessel of Hatred (Action RPG Hack & Slash) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-29"
     },
     {
       "id": "SS-0041",
@@ -12946,7 +12946,47 @@
       "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for First Round Hit - The Long Range Shooting Simulator, Bouncy Ball Battle, Aim Break, Sort The Dumplings.",
       "published_at": "2026-10-29",
       "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c1-5.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c2-1",
+      "title": "Best PC Hardware Upgrades for Slime Jump, BRO, DON'T DROP IT! & More (2026 Guide)",
+      "category": "1440p High-FPS GPUs (RTX 4070 Super / RX 7800 XT)",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Slime Jump, BRO, DON'T DROP IT!, Stellar Swing, NyanGo.",
+      "published_at": "2026-10-29",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-1.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c2-2",
+      "title": "Best PC Hardware Upgrades for Fancy's Monster Girl Beach Jigsaw Puzzle, Cyberpunk 2077: Phantom Liberty & More (2026 Guide)",
+      "category": "1440p High-FPS GPUs (RTX 4070 Super / RX 7800 XT)",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Fancy's Monster Girl Beach Jigsaw Puzzle, Cyberpunk 2077: Phantom Liberty, Elden Ring: Shadow of the Erdtree, Black Myth: Wukong.",
+      "published_at": "2026-10-29",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-2.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c2-3",
+      "title": "Best PC Hardware Upgrades for Baldur's Gate 3, Helldivers 2 & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Baldur's Gate 3, Helldivers 2, Monster Hunter Wilds, Microsoft Flight Simulator 2024.",
+      "published_at": "2026-10-29",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-3.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c2-4",
+      "title": "Best PC Hardware Upgrades for Call of Duty: Warzone & Black Ops 6, Starfield: Shattered Space & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Call of Duty: Warzone & Black Ops 6, Starfield: Shattered Space, Counter-Strike 2 (CS2), Forza Horizon 5.",
+      "published_at": "2026-10-29",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-4.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c2-5",
+      "title": "Best PC Hardware Upgrades for Red Dead Redemption 2, Ghost of Tsushima DIRECTOR'S CUT & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Red Dead Redemption 2, Ghost of Tsushima DIRECTOR'S CUT, Hogwarts Legacy, Diablo IV: Vessel of Hatred.",
+      "published_at": "2026-10-29",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-5.html"
     }
   ],
-  "cycle_count": 1
+  "cycle_count": 2
 }
