@@ -1170,12 +1170,12 @@
       "cat_slug": "gaming-memory-ram",
       "sub_slug": "32gb-ddr5-6000-gaming-ram",
       "subcategory": "1080p 144Hz Competitive Build",
-      "ram_gb": 32,
+      "ram_gb": 16,
       "storage_gb": 40,
       "gpu_model": "NVIDIA GeForce RTX 4060 8GB",
       "cpu_model": "AMD Ryzen 5 7600X",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
       "summary": "The Palworld (1080p 144Hz Competitive Build) hardware package is tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency, matching official Steam requirements (32GB RAM, 40GB SSD, NVIDIA GeForce RTX 4060 8GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4060 8GB",
@@ -1186,8 +1186,8 @@
       },
       "buy_if": "You want to play Palworld (Open World Survival Craft) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0042",
@@ -1204,7 +1204,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4060 8GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1790164440",
       "summary": "The Apex Legends (1080p 144Hz Competitive Build) hardware package is tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency, matching official Steam requirements (16GB RAM, 75GB SSD, NVIDIA GeForce RTX 4060 8GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4060 8GB",
@@ -1215,8 +1215,8 @@
       },
       "buy_if": "You want to play Apex Legends (Battle Royale FPS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0043",
@@ -1228,12 +1228,12 @@
       "cat_slug": "gaming-processors-cpus",
       "sub_slug": "3d-vcache-gaming-cpus",
       "subcategory": "1080p 144Hz Competitive Build",
-      "ram_gb": 32,
+      "ram_gb": 16,
       "storage_gb": 45,
       "gpu_model": "NVIDIA GeForce RTX 4060 8GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "none",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
       "summary": "The Rust (1080p 144Hz Competitive Build) hardware package is tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency, matching official Steam requirements (32GB RAM, 45GB SSD, NVIDIA GeForce RTX 4060 8GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4060 8GB",
@@ -1244,8 +1244,8 @@
       },
       "buy_if": "You want to play Rust (Multiplayer Survival) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0044",
@@ -1273,8 +1273,8 @@
       },
       "buy_if": "You want to play ARK: Survival Ascended (Unreal Engine 5 Survival) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0045",
@@ -1302,8 +1302,8 @@
       },
       "buy_if": "You want to play Cities: Skylines II (City Builder Simulation) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0046",
@@ -1331,8 +1331,8 @@
       },
       "buy_if": "You want to play Warhammer 40,000: Space Marine 2 (Third-Person Action) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0047",
@@ -1360,8 +1360,8 @@
       },
       "buy_if": "You want to play God of War Ragnarök PC (Action Adventure) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0048",
@@ -1389,8 +1389,8 @@
       },
       "buy_if": "You want to play Final Fantasy XVI PC (Action RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0049",
@@ -1418,8 +1418,8 @@
       },
       "buy_if": "You want to play Silent Hill 2 Remake (Survival Horror) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0050",
@@ -1447,8 +1447,8 @@
       },
       "buy_if": "You want to play S.T.A.L.K.E.R. 2: Heart of Chornobyl (Unreal 5 Open-World FPS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0051",
@@ -1476,8 +1476,8 @@
       },
       "buy_if": "You want to play Path of Exile 2 (Isometric Action RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0052",
@@ -1505,8 +1505,8 @@
       },
       "buy_if": "You want to play Indiana Jones and the Great Circle (Ray-Traced Adventure) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0053",
@@ -1534,8 +1534,8 @@
       },
       "buy_if": "You want to play Kingdom Come: Deliverance II (Medieval Open-World RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0054",
@@ -1563,8 +1563,8 @@
       },
       "buy_if": "You want to play Civilization VII (4X Turn-Based Strategy) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0055",
@@ -1592,8 +1592,8 @@
       },
       "buy_if": "You want to play DOOM: The Dark Ages (Fast-Paced Arena FPS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0056",
@@ -1621,8 +1621,8 @@
       },
       "buy_if": "You want to play Grand Theft Auto V Enhanced PC (Open World Action) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0057",
@@ -1650,8 +1650,8 @@
       },
       "buy_if": "You want to play Enshrouded (Co-Op Voxel Survival RPG) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0058",
@@ -1679,8 +1679,8 @@
       },
       "buy_if": "You want to play Manor Lords (Medieval City & Battle Sim) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0059",
@@ -1708,8 +1708,8 @@
       },
       "buy_if": "You want to play Total War: WARHAMMER III (Grand Strategy RTS) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0060",
@@ -1737,8 +1737,8 @@
       },
       "buy_if": "You want to play Street Fighter 6 (Competitive Fighting) with tuned for locked 144+ FPS frame pacing at 1080p Ultra with zero input latency without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-30"
     },
     {
       "id": "SS-0061",
@@ -12986,7 +12986,47 @@
       "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Red Dead Redemption 2, Ghost of Tsushima DIRECTOR'S CUT, Hogwarts Legacy, Diablo IV: Vessel of Hatred.",
       "published_at": "2026-10-29",
       "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c2-5.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c3-1",
+      "title": "Best PC Hardware Upgrades for Palworld, Apex Legends & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Palworld, Apex Legends, Rust, ARK: Survival Ascended.",
+      "published_at": "2026-10-30",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c3-1.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c3-2",
+      "title": "Best PC Hardware Upgrades for Cities: Skylines II, Warhammer 40,000: Space Marine 2 & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Cities: Skylines II, Warhammer 40,000: Space Marine 2, God of War Ragnarök PC, Final Fantasy XVI PC.",
+      "published_at": "2026-10-30",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c3-2.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c3-3",
+      "title": "Best PC Hardware Upgrades for Silent Hill 2 Remake, S.T.A.L.K.E.R. 2: Heart of Chornobyl & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Silent Hill 2 Remake, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Path of Exile 2, Indiana Jones and the Great Circle.",
+      "published_at": "2026-10-30",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c3-3.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c3-4",
+      "title": "Best PC Hardware Upgrades for Kingdom Come: Deliverance II, Civilization VII & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Kingdom Come: Deliverance II, Civilization VII, DOOM: The Dark Ages, Grand Theft Auto V Enhanced PC.",
+      "published_at": "2026-10-30",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c3-4.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c3-5",
+      "title": "Best PC Hardware Upgrades for Enshrouded, Manor Lords & More (2026 Guide)",
+      "category": "1080p 144Hz Competitive Build",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Enshrouded, Manor Lords, Total War: WARHAMMER III, Street Fighter 6.",
+      "published_at": "2026-10-30",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c3-5.html"
     }
   ],
-  "cycle_count": 2
+  "cycle_count": 3
 }
