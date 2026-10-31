@@ -2910,12 +2910,12 @@
       "cat_slug": "gaming-processors-cpus",
       "sub_slug": "3d-vcache-gaming-cpus",
       "subcategory": "4K Path-Tracing & Max Settings Rig",
-      "ram_gb": 32,
-      "storage_gb": 140,
+      "ram_gb": 16,
+      "storage_gb": 75,
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
       "summary": "The Monster Hunter Wilds (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (32GB RAM, 140GB SSD, NVIDIA GeForce RTX 4070 Super 12GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -2926,8 +2926,8 @@
       },
       "buy_if": "You want to play Monster Hunter Wilds (Action Co-Op RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0102",
@@ -2939,12 +2939,12 @@
       "cat_slug": "gaming-memory-ram",
       "sub_slug": "64gb-ddr5-simulation-ram",
       "subcategory": "4K Path-Tracing & Max Settings Rig",
-      "ram_gb": 64,
-      "storage_gb": 150,
+      "ram_gb": 16,
+      "storage_gb": 50,
       "gpu_model": "NVIDIA GeForce RTX 4080 Super 16GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1791557822",
       "summary": "The Microsoft Flight Simulator 2024 (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (64GB RAM, 150GB SSD, NVIDIA GeForce RTX 4080 Super 16GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4080 Super 16GB",
@@ -2955,8 +2955,8 @@
       },
       "buy_if": "You want to play Microsoft Flight Simulator 2024 (Aviation Simulation) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0103",
@@ -2968,12 +2968,12 @@
       "cat_slug": "controllers-gaming-peripherals",
       "sub_slug": "wireless-esports-gaming-mice",
       "subcategory": "4K Path-Tracing & Max Settings Rig",
-      "ram_gb": 32,
-      "storage_gb": 149,
+      "ram_gb": 16,
+      "storage_gb": 115,
       "gpu_model": "AMD Radeon RX 7800 XT 16GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1793386059",
       "summary": "The Call of Duty: Warzone & Black Ops 6 (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (32GB RAM, 149GB SSD, AMD Radeon RX 7800 XT 16GB).",
       "specs": {
         "Recommended GPU Upgrade": "AMD Radeon RX 7800 XT 16GB",
@@ -2984,8 +2984,8 @@
       },
       "buy_if": "You want to play Call of Duty: Warzone & Black Ops 6 (Competitive FPS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0104",
@@ -3013,8 +3013,8 @@
       },
       "buy_if": "You want to play Starfield: Shattered Space (Sci-Fi Open World RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0105",
@@ -3042,8 +3042,8 @@
       },
       "buy_if": "You want to play Counter-Strike 2 (CS2) (Tactical Esports FPS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0106",
@@ -3071,8 +3071,8 @@
       },
       "buy_if": "You want to play Forza Horizon 5 (Open World Racing) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0107",
@@ -3100,8 +3100,8 @@
       },
       "buy_if": "You want to play Red Dead Redemption 2 (Open World Action) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0108",
@@ -3129,8 +3129,8 @@
       },
       "buy_if": "You want to play Ghost of Tsushima DIRECTOR'S CUT (Open World Action) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0109",
@@ -3158,8 +3158,8 @@
       },
       "buy_if": "You want to play Hogwarts Legacy (Open World Fantasy RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0110",
@@ -3187,8 +3187,8 @@
       },
       "buy_if": "You want to play Diablo IV: Vessel of Hatred (Action RPG Hack & Slash) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0111",
@@ -3216,8 +3216,8 @@
       },
       "buy_if": "You want to play Palworld (Open World Survival Craft) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0112",
@@ -3245,8 +3245,8 @@
       },
       "buy_if": "You want to play Apex Legends (Battle Royale FPS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0113",
@@ -3274,8 +3274,8 @@
       },
       "buy_if": "You want to play Rust (Multiplayer Survival) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0114",
@@ -3303,8 +3303,8 @@
       },
       "buy_if": "You want to play ARK: Survival Ascended (Unreal Engine 5 Survival) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0115",
@@ -3332,8 +3332,8 @@
       },
       "buy_if": "You want to play Cities: Skylines II (City Builder Simulation) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0116",
@@ -3361,8 +3361,8 @@
       },
       "buy_if": "You want to play Warhammer 40,000: Space Marine 2 (Third-Person Action) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0117",
@@ -3390,8 +3390,8 @@
       },
       "buy_if": "You want to play God of War Ragnarök PC (Action Adventure) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0118",
@@ -3419,8 +3419,8 @@
       },
       "buy_if": "You want to play Final Fantasy XVI PC (Action RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0119",
@@ -3448,8 +3448,8 @@
       },
       "buy_if": "You want to play Silent Hill 2 Remake (Survival Horror) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0120",
@@ -3477,8 +3477,8 @@
       },
       "buy_if": "You want to play S.T.A.L.K.E.R. 2: Heart of Chornobyl (Unreal 5 Open-World FPS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0121",
@@ -13106,7 +13106,47 @@
       "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Elden Ring: Shadow of the Erdtree, Black Myth: Wukong, Baldur's Gate 3, Helldivers 2.",
       "published_at": "2026-10-31",
       "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-5.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c6-1",
+      "title": "Best PC Hardware Upgrades for Monster Hunter Wilds, Microsoft Flight Simulator 2024 & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Monster Hunter Wilds, Microsoft Flight Simulator 2024, Call of Duty: Warzone & Black Ops 6, Starfield: Shattered Space.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-1.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c6-2",
+      "title": "Best PC Hardware Upgrades for Counter-Strike 2 (CS2), Forza Horizon 5 & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Counter-Strike 2 (CS2), Forza Horizon 5, Red Dead Redemption 2, Ghost of Tsushima DIRECTOR'S CUT.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-2.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c6-3",
+      "title": "Best PC Hardware Upgrades for Hogwarts Legacy, Diablo IV: Vessel of Hatred & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Hogwarts Legacy, Diablo IV: Vessel of Hatred, Palworld, Apex Legends.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-3.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c6-4",
+      "title": "Best PC Hardware Upgrades for Rust, ARK: Survival Ascended & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Rust, ARK: Survival Ascended, Cities: Skylines II, Warhammer 40,000: Space Marine 2.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-4.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c6-5",
+      "title": "Best PC Hardware Upgrades for God of War Ragnarök PC, Final Fantasy XVI PC & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for God of War Ragnarök PC, Final Fantasy XVI PC, Silent Hill 2 Remake, S.T.A.L.K.E.R. 2: Heart of Chornobyl.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-5.html"
     }
   ],
-  "cycle_count": 5
+  "cycle_count": 6
 }
