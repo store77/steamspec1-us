@@ -2335,7 +2335,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
       "summary": "The Warhammer 40,000: Space Marine 2 (1440p Ultra DLSS/FSR Rig) hardware package is engineered for native 1440p high-refresh gaming with high-resolution texture packs, matching official Steam requirements (16GB RAM, 75GB SSD, NVIDIA GeForce RTX 4070 Super 12GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -2346,8 +2346,8 @@
       },
       "buy_if": "You want to play Warhammer 40,000: Space Marine 2 (Third-Person Action) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0082",
@@ -2364,7 +2364,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 5 7600X",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
       "summary": "The God of War Ragnarök PC (1440p Ultra DLSS/FSR Rig) hardware package is engineered for native 1440p high-refresh gaming with high-resolution texture packs, matching official Steam requirements (16GB RAM, 190GB SSD, NVIDIA GeForce RTX 4070 Super 12GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -2375,8 +2375,8 @@
       },
       "buy_if": "You want to play God of War Ragnarök PC (Action Adventure) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0083",
@@ -2393,7 +2393,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1773294537",
       "summary": "The Final Fantasy XVI PC (1440p Ultra DLSS/FSR Rig) hardware package is engineered for native 1440p high-refresh gaming with high-resolution texture packs, matching official Steam requirements (16GB RAM, 170GB SSD, NVIDIA GeForce RTX 4070 Super 12GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -2404,8 +2404,8 @@
       },
       "buy_if": "You want to play Final Fantasy XVI PC (Action RPG) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0084",
@@ -2433,8 +2433,8 @@
       },
       "buy_if": "You want to play Silent Hill 2 Remake (Survival Horror) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0085",
@@ -2462,8 +2462,8 @@
       },
       "buy_if": "You want to play S.T.A.L.K.E.R. 2: Heart of Chornobyl (Unreal 5 Open-World FPS) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0086",
@@ -2491,8 +2491,8 @@
       },
       "buy_if": "You want to play Path of Exile 2 (Isometric Action RPG) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0087",
@@ -2520,8 +2520,8 @@
       },
       "buy_if": "You want to play Indiana Jones and the Great Circle (Ray-Traced Adventure) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0088",
@@ -2549,8 +2549,8 @@
       },
       "buy_if": "You want to play Kingdom Come: Deliverance II (Medieval Open-World RPG) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0089",
@@ -2578,8 +2578,8 @@
       },
       "buy_if": "You want to play Civilization VII (4X Turn-Based Strategy) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0090",
@@ -2607,8 +2607,8 @@
       },
       "buy_if": "You want to play DOOM: The Dark Ages (Fast-Paced Arena FPS) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0091",
@@ -2636,8 +2636,8 @@
       },
       "buy_if": "You want to play Grand Theft Auto V Enhanced PC (Open World Action) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0092",
@@ -2665,8 +2665,8 @@
       },
       "buy_if": "You want to play Enshrouded (Co-Op Voxel Survival RPG) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0093",
@@ -2694,8 +2694,8 @@
       },
       "buy_if": "You want to play Manor Lords (Medieval City & Battle Sim) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0094",
@@ -2723,8 +2723,8 @@
       },
       "buy_if": "You want to play Total War: WARHAMMER III (Grand Strategy RTS) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0095",
@@ -2752,8 +2752,8 @@
       },
       "buy_if": "You want to play Street Fighter 6 (Competitive Fighting) with engineered for native 1440p high-refresh gaming with high-resolution texture packs without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0096",
@@ -2781,8 +2781,8 @@
       },
       "buy_if": "You want to play Cyberpunk 2077: Phantom Liberty (Action RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0097",
@@ -2810,8 +2810,8 @@
       },
       "buy_if": "You want to play Elden Ring: Shadow of the Erdtree (Souls-like Action RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0098",
@@ -2839,8 +2839,8 @@
       },
       "buy_if": "You want to play Black Myth: Wukong (Action RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0099",
@@ -2868,8 +2868,8 @@
       },
       "buy_if": "You want to play Baldur's Gate 3 (CRPG Strategy) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0100",
@@ -2897,8 +2897,8 @@
       },
       "buy_if": "You want to play Helldivers 2 (Co-Op Tactical Shooter) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0101",
@@ -13066,7 +13066,47 @@
       "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Apex Legends, Rust, ARK: Survival Ascended, Cities: Skylines II.",
       "published_at": "2026-10-30",
       "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c4-5.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c5-1",
+      "title": "Best PC Hardware Upgrades for Warhammer 40,000: Space Marine 2, God of War Ragnarök PC & More (2026 Guide)",
+      "category": "1440p Ultra DLSS/FSR Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Warhammer 40,000: Space Marine 2, God of War Ragnarök PC, Final Fantasy XVI PC, Silent Hill 2 Remake.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-1.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c5-2",
+      "title": "Best PC Hardware Upgrades for S.T.A.L.K.E.R. 2: Heart of Chornobyl, Path of Exile 2 & More (2026 Guide)",
+      "category": "1440p Ultra DLSS/FSR Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for S.T.A.L.K.E.R. 2: Heart of Chornobyl, Path of Exile 2, Indiana Jones and the Great Circle, Kingdom Come: Deliverance II.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-2.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c5-3",
+      "title": "Best PC Hardware Upgrades for Civilization VII, DOOM: The Dark Ages & More (2026 Guide)",
+      "category": "1440p Ultra DLSS/FSR Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Civilization VII, DOOM: The Dark Ages, Grand Theft Auto V Enhanced PC, Enshrouded.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-3.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c5-4",
+      "title": "Best PC Hardware Upgrades for Manor Lords, Total War: WARHAMMER III & More (2026 Guide)",
+      "category": "1440p Ultra DLSS/FSR Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Manor Lords, Total War: WARHAMMER III, Street Fighter 6, Cyberpunk 2077: Phantom Liberty.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-4.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c5-5",
+      "title": "Best PC Hardware Upgrades for Elden Ring: Shadow of the Erdtree, Black Myth: Wukong & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Elden Ring: Shadow of the Erdtree, Black Myth: Wukong, Baldur's Gate 3, Helldivers 2.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec1-us/reviews/pc-hardware-upgrade-benchmark-comparison-c5-5.html"
     }
   ],
-  "cycle_count": 4
+  "cycle_count": 5
 }
